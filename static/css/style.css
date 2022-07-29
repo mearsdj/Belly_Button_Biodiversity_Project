@@ -11,3 +11,7 @@
 .jumbotron p {
     color:yellow
 }
+
+.panel panel-info {
+    border: 0;
+}
